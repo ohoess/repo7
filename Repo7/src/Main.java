@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("Hallo 7");
 		System.out.println("Hallo 8");
 		System.out.println("Hallo 9");
+		System.out.println("Hallo 10");
 		
 	}
 
