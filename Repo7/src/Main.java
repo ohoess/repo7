@@ -3,24 +3,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Hallo 1");
-		System.out.println("Hallo 2");
-		System.out.println("Hallo 3");
-		System.out.println("Hallo 4");
-		System.out.println("Hallo 5");
-		System.out.println("Hallo 6");
-		System.out.println("Hallo 7");
-		System.out.println("Hallo 8");
-		System.out.println("Hallo 9");
-		System.out.println("Hallo 10");
-		System.out.println("Hallo 11");
-		System.out.println("Hallo 12");
-		System.out.println("Hallo 13");
-		System.out.println("Hallo 14");
-		System.out.println("Hallo 15");
-		System.out.println("Hallo 16");
-		System.out.println("Hallo 17");
-		System.out.println("Hallo 18");
-		System.out.println("Hallo 19");
 	}
 }
 
